@@ -49,6 +49,12 @@
 		090A2B782BB3B9A700B46BA4 /* Udemy XcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Udemy XcodeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		090A2B7C2BB3B9A700B46BA4 /* Udemy_XcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Udemy_XcodeUITests.swift; sourceTree = "<group>"; };
 		090A2B7E2BB3B9A700B46BA4 /* Udemy_XcodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Udemy_XcodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		090A2B8D2BB3CAFB00B46BA4 /* Comentarios.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Comentarios.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		090A2B8E2BB3CE5B00B46BA4 /* let_y_var.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = let_y_var.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		090A2B902BB3D39000B46BA4 /* Declaración_multiple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Declaración_multiple.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		095AF8EA2BB3E2B2004B0E5B /* Tipos_datos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tipos_datos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		095AF8EB2BB3E6B2004B0E5B /* Enteros_flotantes_operadoresAritmeticos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enteros_flotantes_operadoresAritmeticos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		095AF8EC2BB3EE41004B0E5B /* Asignacion implicita y explicita.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Asignacion implicita y explicita.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,7 @@
 		090A2B5A2BB3B99B00B46BA4 /* Udemy Xcode */ = {
 			isa = PBXGroup;
 			children = (
+				090A2B8C2BB3CACB00B46BA4 /* Sección3 */,
 				090A2B5B2BB3B99B00B46BA4 /* AppDelegate.swift */,
 				090A2B5D2BB3B99B00B46BA4 /* SceneDelegate.swift */,
 				090A2B5F2BB3B99B00B46BA4 /* ViewController.swift */,
@@ -125,6 +132,20 @@
 				090A2B7E2BB3B9A700B46BA4 /* Udemy_XcodeUITestsLaunchTests.swift */,
 			);
 			path = "Udemy XcodeUITests";
+			sourceTree = "<group>";
+		};
+		090A2B8C2BB3CACB00B46BA4 /* Sección3 */ = {
+			isa = PBXGroup;
+			children = (
+				090A2B8D2BB3CAFB00B46BA4 /* Comentarios.playground */,
+				090A2B8E2BB3CE5B00B46BA4 /* let_y_var.playground */,
+				090A2B902BB3D39000B46BA4 /* Declaración_multiple.playground */,
+				095AF8EA2BB3E2B2004B0E5B /* Tipos_datos.playground */,
+				095AF8EB2BB3E6B2004B0E5B /* Enteros_flotantes_operadoresAritmeticos.playground */,
+				095AF8EC2BB3EE41004B0E5B /* Asignacion implicita y explicita.playground */,
+			);
+			name = "Sección3";
+			path = "Sección3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
